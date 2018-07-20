@@ -21,7 +21,7 @@ Releases
      <tr>
             <td>v19</td>
             <td>Cloudera Manager 5.15</td>
-            <td><a href="{{ site.url }}/apidocs/5.15.0/index.html">API docs</a>,
+            <td><a href="{{ site.url }}/apidocs/v5.15.0/index.html">API docs</a>,
                 <a href="{{ site.url }}/javadoc/5.15.0/index.html">Javadoc</a>,
                 <a href="{{ site.url }}/epydoc/5.15.0/index.html">Epydoc</a>
             </td>
